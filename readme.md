@@ -17,4 +17,8 @@ nvim
 :PlugInstall 
 
 
+-- Configure WSL2 Terminal Colors
+mv .dircolors ~/.dircolors
+
+
 -- Boom Linux ENV
